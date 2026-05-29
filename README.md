@@ -1,9 +1,9 @@
 # laravel-fiscal-colombia
 
-[![Versión en Packagist](https://img.shields.io/packagist/v/jamesmosquera/laravel-fiscal-colombia.svg?style=flat-square)](https://packagist.org/packages/jamesmosquera/laravel-fiscal-colombia)
-[![Descargas](https://img.shields.io/packagist/dt/jamesmosquera/laravel-fiscal-colombia.svg?style=flat-square)](https://packagist.org/packages/jamesmosquera/laravel-fiscal-colombia)
-[![PHP](https://img.shields.io/packagist/php-v/jamesmosquera/laravel-fiscal-colombia.svg?style=flat-square)](https://packagist.org/packages/jamesmosquera/laravel-fiscal-colombia)
-[![Licencia](https://img.shields.io/packagist/l/jamesmosquera/laravel-fiscal-colombia.svg?style=flat-square)](LICENSE)
+[![Versión en Packagist](https://img.shields.io/packagist/v/jamesmosq/laravel-fiscal-colombia.svg?style=flat-square)](https://packagist.org/packages/jamesmosq/laravel-fiscal-colombia)
+[![Descargas](https://img.shields.io/packagist/dt/jamesmosq/laravel-fiscal-colombia.svg?style=flat-square)](https://packagist.org/packages/jamesmosq/laravel-fiscal-colombia)
+[![PHP](https://img.shields.io/packagist/php-v/jamesmosq/laravel-fiscal-colombia.svg?style=flat-square)](https://packagist.org/packages/jamesmosq/laravel-fiscal-colombia)
+[![Licencia](https://img.shields.io/packagist/l/jamesmosq/laravel-fiscal-colombia.svg?style=flat-square)](LICENSE)
 
 Herramientas fiscales y tributarias colombianas para Laravel y MoonShine.
 
@@ -29,7 +29,7 @@ Herramientas fiscales y tributarias colombianas para Laravel y MoonShine.
 ## Instalación
 
 ```bash
-composer require jamesmosquera/laravel-fiscal-colombia
+composer require jamesmosq/laravel-fiscal-colombia
 ```
 
 El `FiscalColombiaServiceProvider` se registra automáticamente vía auto-discovery de Laravel.
