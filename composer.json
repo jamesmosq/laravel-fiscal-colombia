@@ -2,6 +2,17 @@
     "name": "jamesmosquera/moonshine-colombia-fiscal",
     "description": "Validador NIT, retenciones y campos fiscales colombianos para Laravel",
     "type": "library",
+    "keywords": [
+        "moonshine",
+        "moonshine-plugin",
+        "laravel",
+        "colombia",
+        "fiscal",
+        "nit",
+        "tributario",
+        "dian",
+        "retenciones"
+    ],
     "license": "MIT",
     "authors": [
         {
