@@ -1,0 +1,31 @@
+# Dependencias de Composer
+/vendor/
+composer.lock
+
+# Caché de PHPUnit
+.phpunit.result.cache
+.phpunit.cache/
+
+# Cobertura de código
+coverage/
+.coverage
+*.clover
+*.cobertura.xml
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# IDEs y editores
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+/storage/logs/
+/tmp/
