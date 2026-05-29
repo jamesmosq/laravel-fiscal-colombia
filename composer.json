@@ -1,5 +1,5 @@
 {
-    "name": "jamesmosquera/moonshine-colombia-fiscal",
+    "name": "jamesmosquera/laravel-fiscal-colombia",
     "description": "Validador NIT, retenciones y campos fiscales colombianos para Laravel",
     "type": "library",
     "keywords": [

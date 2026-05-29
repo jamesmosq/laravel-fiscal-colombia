@@ -1,9 +1,9 @@
-# moonshine-colombia-fiscal
+# laravel-fiscal-colombia
 
-[![Versión en Packagist](https://img.shields.io/packagist/v/jamesmosquera/moonshine-colombia-fiscal.svg?style=flat-square)](https://packagist.org/packages/jamesmosquera/moonshine-colombia-fiscal)
-[![Descargas](https://img.shields.io/packagist/dt/jamesmosquera/moonshine-colombia-fiscal.svg?style=flat-square)](https://packagist.org/packages/jamesmosquera/moonshine-colombia-fiscal)
-[![PHP](https://img.shields.io/packagist/php-v/jamesmosquera/moonshine-colombia-fiscal.svg?style=flat-square)](https://packagist.org/packages/jamesmosquera/moonshine-colombia-fiscal)
-[![Licencia](https://img.shields.io/packagist/l/jamesmosquera/moonshine-colombia-fiscal.svg?style=flat-square)](LICENSE)
+[![Versión en Packagist](https://img.shields.io/packagist/v/jamesmosquera/laravel-fiscal-colombia.svg?style=flat-square)](https://packagist.org/packages/jamesmosquera/laravel-fiscal-colombia)
+[![Descargas](https://img.shields.io/packagist/dt/jamesmosquera/laravel-fiscal-colombia.svg?style=flat-square)](https://packagist.org/packages/jamesmosquera/laravel-fiscal-colombia)
+[![PHP](https://img.shields.io/packagist/php-v/jamesmosquera/laravel-fiscal-colombia.svg?style=flat-square)](https://packagist.org/packages/jamesmosquera/laravel-fiscal-colombia)
+[![Licencia](https://img.shields.io/packagist/l/jamesmosquera/laravel-fiscal-colombia.svg?style=flat-square)](LICENSE)
 
 Herramientas fiscales y tributarias colombianas para Laravel y MoonShine.
 
@@ -29,7 +29,7 @@ Herramientas fiscales y tributarias colombianas para Laravel y MoonShine.
 ## Instalación
 
 ```bash
-composer require jamesmosquera/moonshine-colombia-fiscal
+composer require jamesmosquera/laravel-fiscal-colombia
 ```
 
 El `FiscalColombiaServiceProvider` se registra automáticamente vía auto-discovery de Laravel.
@@ -225,7 +225,7 @@ Las tarifas cambian anualmente por decreto del Ministerio de Hacienda. Después 
 ## Tests
 
 ```bash
-cd packages/moonshine-colombia-fiscal
+cd packages/laravel-fiscal-colombia
 ./vendor/bin/phpunit
 ```
 
